@@ -62,4 +62,3 @@ tripPointsModel.init()
   .finally(() => {
     render(newTripPointButtonComponent, siteHeaderElement);
   });
-  
